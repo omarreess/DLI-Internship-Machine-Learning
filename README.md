@@ -11,7 +11,7 @@ Machine Learning Tasks were taken in DLI's Internship
 
 # Credits
 All Credits go to DLI - Distinguished Learners Institution 
-- Linkedin 
+- Linkedin : 
 https://www.linkedin.com/company/distinguished-learners-institution
-- Facebook 
+- Facebook : 
 https://www.facebook.com/dlieg
